@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/pranay/PolaronAnimation/media/videos/electron_phonon/720p30/partial_movie_files/Bipolaron/122916032_1813825952_1850757772.mp4'
-file 'file:/home/pranay/PolaronAnimation/media/videos/electron_phonon/720p30/partial_movie_files/Bipolaron/3288007914_2840115676_489453133.mp4'
